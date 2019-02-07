@@ -26,7 +26,7 @@ module: {
 }
 ```
 
-### .babelrc
+#### .babelrc
 
 ```js
 // 新建同目录下 .babelrc 文件
